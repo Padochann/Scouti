@@ -48,16 +48,16 @@ nav {
 
 
 nav #logo {
-
-    padding-top: 1%;
+    display: flex;
+    position: fixed;
+    padding-top: 0%;
     padding-bottom: 1%;
     padding-left: 0%;
     padding-right: 0%;
     margin: 0;
 
-    display: flex;
-    position: fixed;
-    top: -1.52%;
+    
+    top: 0.48%;
     left: 1%;   
     transition: 0.3s;
 }
@@ -91,7 +91,7 @@ nav #logo:active {
     padding: 0;
     display: flex;
     position: fixed;
-    top: 0.5%;
+    top: 0.6%;
     left: 1%;
  
 
