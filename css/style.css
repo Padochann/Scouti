@@ -45,6 +45,33 @@ nav {
     animation: slide 0.4s ease-in-out;                
 }
 
+
+#logo, #logo img{
+
+   /* width: 30%;
+    height: 30%;    
+    border-radius: 20px;
+    */
+
+    width: 5.8vmin;
+    height: 5.8vmin;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: fixed;
+    top: 0.6%;
+    left: 0.6%;
+ 
+
+}
+
+#logo img{
+    
+    border-radius: 20px;
+}
+
+
+
 nav a {
     padding: 2%;
     text-decoration: none;
