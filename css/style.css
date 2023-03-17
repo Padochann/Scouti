@@ -48,21 +48,30 @@ nav {
 
 
 nav #logo {
-    display: flex;
-    position: fixed;
-    padding-top: 0%;
+    padding-top: 1%;
     padding-bottom: 1%;
     padding-left: 0%;
     padding-right: 0%;
     margin: 0;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 5.8vmin;
+    height: 5.8vmin;
+    position: fixed;
+    left: 1%;
+
 
     
-    top: 0.48%;
-    left: 1%;   
+
+    
+   
     transition: 0.3s;
 }
 
 nav #logo img {
+    
+    top: 0;
     width: 5.8vmin;
     height: 5.8vmin;
     border-radius: 20px;
