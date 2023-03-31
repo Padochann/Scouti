@@ -315,7 +315,7 @@ nav a:active {
     }
     
 }
-@media screen and (max-height: 900px) and (min-height: 0px){
+@media screen and (max-height: 500px) and (min-height: 0px){
     #logo {
        
         padding: 0.4% 0%;
